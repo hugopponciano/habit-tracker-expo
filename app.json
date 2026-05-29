@@ -6,7 +6,9 @@
     "scheme": "habit-tracker-expo",
     "plugins": [
       "expo-router",
-      "expo-asset"
+      "expo-asset",
+      "expo-secure-store",
+      "expo-font"
     ],
     "orientation": "portrait",
     "icon": "./assets/icon.png",
